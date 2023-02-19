@@ -9,4 +9,7 @@ Ishika Agarwal's Web Development Portfolio
 2)Registeration Form -  http://127.0.0.1:5500/regform.html
 
 
-2)Balance Sheet -      http://127.0.0.1:5500/balancesheet.html
+3)Balance Sheet -      http://127.0.0.1:5500/balancesheet.html
+
+
+4)Picasso Painintg-  http://127.0.0.1:5500/picassopainting.html
