@@ -6,7 +6,7 @@ Ishika Agarwal's Web Development Portfolio
 1)Cafe Menu -      http://127.0.0.1:5500/CafeMenu/cafe.html
 
 
-2)Registeration Form -  http://127.0.0.1:5500/regform.html
+2)Registeration Form -  http://127.0.0.1:5500/RegisterationForm/regform.html
 
 
 3)Balance Sheet -      http://127.0.0.1:5500/balancesheet.html
