@@ -1,0 +1,21 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: yellow;
+    color: #fff;
+    padding: 10px;
+  }
+  img{
+    width: 300px;
+    height: 300px;
+  }
+  a {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  

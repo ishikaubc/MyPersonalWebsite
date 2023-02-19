@@ -1,20 +1,18 @@
-.static{
-    position: relative;
-    display: block;
+.section-one,.section-two{
+    float:left;
+    width: 30%, 70%;
   }
   .bold{
   font-size: 20px;
   font-weight: bold;
   font-style: sans-serif;
   }
-  @media(max-width: 500px){
-    .nav-links{
-      display:none;
-    }
-  section.main-section:first-of-type{
-    padding: 10px;
-  
-    }
-  
+  .section-two{
+    width: 300px;
+    height: 550px;
+    position: absolute;
+    top:0;
+    left:0;
   }
+ 
   
