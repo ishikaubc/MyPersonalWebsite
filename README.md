@@ -13,3 +13,5 @@ Ishika Agarwal's Web Development Portfolio
 
 
 4)Picasso Painintg-  http://127.0.0.1:5500/picassopainting.html
+
+5)Nutrition Label - http://127.0.0.1:5500/nutritionlabel.html
