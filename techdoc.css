@@ -1,0 +1,20 @@
+.static{
+    position: relative;
+    display: block;
+  }
+  .bold{
+  font-size: 20px;
+  font-weight: bold;
+  font-style: sans-serif;
+  }
+  @media(max-width: 500px){
+    .nav-links{
+      display:none;
+    }
+  section.main-section:first-of-type{
+    padding: 10px;
+  
+    }
+  
+  }
+  
